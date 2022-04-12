@@ -238,7 +238,8 @@ nav {
   width: 100%;
   margin: 0;
   padding: 0;
-  height: 100vh;
+  height: 100%;
+  padding-bottom: 50px
 }
 
 .bgImg img{
@@ -253,6 +254,10 @@ nav {
 
 .bookLink{
   color: white;
+}
+
+.bookLink:hover{
+  color: blue;
 }
 
 /* TwentyTwenty */

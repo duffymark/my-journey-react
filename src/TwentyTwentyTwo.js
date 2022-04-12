@@ -16,11 +16,11 @@ const TwentyTwentyTwo = () => {
                         <p><a href="https://scavenger-hunt-cards.netlify.app/">Scavenger Hunt</a> - A game I made for my daughter to have some fun on a rainy day.</p>
                     </li>
                     <li>
-                        <p><a href="https://wikipedia-race.netlify.app/">Wiki Race.</a> - A fun game we played in Bootcamp that I built into an App. Can you find the connection between two random Wikipedia articles? </p>
+                        <p><a href="https://wikipedia-race.netlify.app/">Wiki Race</a> - A fun game we played in Bootcamp that I built into an App. Can you find the connection between two random Wikipedia articles? </p>
                     </li>
                     </ul> 
                     <p>- currently learning Typescript, React, Wordpress, and back to where it all begain, Ruby on Rails!</p>
-                    
+
                     <h2>2023 and Beyond...</h2>
                     <p>- time will tell, but I predict more building, learning, and creativity. </p>
                     </p> 
